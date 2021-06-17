@@ -1,2 +1,4 @@
-# vimrc
-My `.vimrc` file
+# Dotfiles
+- `.vimrc`
+- `.zshrc`
+- `.ideavimrc`
